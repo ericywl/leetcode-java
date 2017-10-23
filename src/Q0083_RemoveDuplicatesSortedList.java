@@ -5,7 +5,7 @@ public class Q0083_RemoveDuplicatesSortedList {
      * Given 1->1->2, return 1->2.
      * Given 1->1->2->3->3, return 1->2->3.
      *
-     * @return
+     * @return ListNode without duplicates
      */
     public static ListNode deleteDuplicates() {
         return new ListNode(1);
