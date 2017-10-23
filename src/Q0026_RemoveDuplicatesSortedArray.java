@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Q0026_RemoveDuplicates {
+public class Q0026_RemoveDuplicatesSortedArray {
     public static int removeDuplicates(int[] nums) {
         if (nums.length == 0) {
             return 0;
