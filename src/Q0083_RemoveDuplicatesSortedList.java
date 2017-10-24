@@ -7,8 +7,12 @@ public class Q0083_RemoveDuplicatesSortedList {
      *
      * @return ListNode without duplicates
      */
-    public static ListNode deleteDuplicates(ListNode start) {
-        ListNode current = start;
+    public static ListNode deleteDuplicates(ListNode head) {
+        if (head == null) {
+            return null;
+        }
+
+        ListNode current = head;
         ListNode lookAhead;
 
         while (current.next != null) {
@@ -20,7 +24,7 @@ public class Q0083_RemoveDuplicatesSortedList {
             }
         }
 
-        return start;
+        return head;
     }
 
     static class ListNode {
@@ -33,9 +37,14 @@ public class Q0083_RemoveDuplicatesSortedList {
     }
 
     public static void main(String[] args) {
-        ListNode b = new ListNode(1);
         ListNode a = new ListNode(1);
+        ListNode b = new ListNode(1);
+        ListNode c = new ListNode(2);
 
-        deleteDuplicates(a);
+        a.next = b;
+        b.next = c;
+
+        ListNode start = deleteDuplicates(a);
+
     }
 }
