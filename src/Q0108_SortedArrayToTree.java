@@ -27,8 +27,4 @@ public class Q0108_SortedArrayToTree {
 
         return parent;
     }
-
-    public static void main(String[] args) {
-
-    }
 }
