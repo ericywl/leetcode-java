@@ -13,7 +13,6 @@ public class Q0070_ClimbingStairs {
             sum = first + second;
             first = second;
             second = sum;
-
         }
 
         return sum;
