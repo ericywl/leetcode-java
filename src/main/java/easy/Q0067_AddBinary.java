@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0067_AddBinary {
     public static String addBinary(String a, String b) {
         if (a.equals("0") && b.equals("0")) {

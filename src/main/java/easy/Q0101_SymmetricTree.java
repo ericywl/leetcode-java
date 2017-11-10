@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0101_SymmetricTree {
     static class TreeNode {
         int val;

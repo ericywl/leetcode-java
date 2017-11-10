@@ -1,3 +1,5 @@
+package easy;
+
 import java.util.*;
 
 public class Q0107_BinaryTreeLevelTraversal {

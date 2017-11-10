@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0110_BalancedBinaryTree {
     static class TreeNode {
         int val;

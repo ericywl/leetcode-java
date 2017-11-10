@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0083_RemoveDuplicatesSortedList {
     /**
      * Given a sorted linked list, delete all duplicates such that each element appear only once.

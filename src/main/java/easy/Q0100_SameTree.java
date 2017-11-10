@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0100_SameTree {
     static class TreeNode {
         int val;

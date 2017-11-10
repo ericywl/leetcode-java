@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0104_BinaryTreeMaxDepth {
     static class TreeNode {
         int val;

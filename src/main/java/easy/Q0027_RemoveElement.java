@@ -1,3 +1,5 @@
+package easy;
+
 import java.util.Arrays;
 
 public class Q0027_RemoveElement {

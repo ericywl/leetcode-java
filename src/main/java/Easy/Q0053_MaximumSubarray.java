@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0053_MaximumSubarray {
     public static int maxSubArray(int[] nums) {
         int numsLength = nums.length;

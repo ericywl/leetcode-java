@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0122_BuySellStock2 {
     public static int maxProfit(int[] prices) {
         int profit = 0;

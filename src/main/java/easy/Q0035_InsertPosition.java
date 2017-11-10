@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0035_InsertPosition {
     public static int searchInsert(int[] nums, int target) {
         int index = 0;

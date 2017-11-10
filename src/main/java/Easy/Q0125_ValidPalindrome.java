@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0125_ValidPalindrome {
     public static boolean isPalindrome(String s) {
         String newS = s.replaceAll("[\\W]", "").toLowerCase();

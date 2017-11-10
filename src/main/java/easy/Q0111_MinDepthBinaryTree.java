@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0111_MinDepthBinaryTree {
     static class TreeNode {
         int val;

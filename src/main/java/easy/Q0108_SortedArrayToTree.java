@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0108_SortedArrayToTree {
     static class TreeNode {
         int val;

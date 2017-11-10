@@ -1,3 +1,5 @@
+package easy;
+
 public class Q0007_ReverseInteger {
     public static int reverseTry(int x) {
         if (x == 0) {
