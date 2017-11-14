@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class Q0206_ReverseLinkedList {
     static class ListNode {

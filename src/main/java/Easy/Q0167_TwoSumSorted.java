@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class Q0167_TwoSumSorted {
     // two pointers but O(n^2)

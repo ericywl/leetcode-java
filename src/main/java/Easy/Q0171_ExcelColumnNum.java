@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class Q0171_ExcelColumnNum {
     public static int titleToNumber(String s) {

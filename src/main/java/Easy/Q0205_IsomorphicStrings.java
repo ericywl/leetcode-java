@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class Q0205_IsomorphicStrings {
     public static boolean isIsomorphic(String s, String t) {

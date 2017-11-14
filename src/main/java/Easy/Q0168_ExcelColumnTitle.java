@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class Q0168_ExcelColumnTitle {
     public static String convertToTitle(int n) {

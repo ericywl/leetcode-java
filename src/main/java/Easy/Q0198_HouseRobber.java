@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class Q0198_HouseRobber {
     public static int rob(int[] nums) {

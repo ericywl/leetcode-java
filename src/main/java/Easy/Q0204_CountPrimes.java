@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class Q0204_CountPrimes {
     public static int countPrimes(int n) {

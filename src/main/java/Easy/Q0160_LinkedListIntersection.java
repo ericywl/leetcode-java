@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class Q0160_LinkedListIntersection {
     static class ListNode {

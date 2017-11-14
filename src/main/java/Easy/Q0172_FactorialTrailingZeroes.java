@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class Q0172_FactorialTrailingZeroes {
     public static int trailingZeroes(int n) {

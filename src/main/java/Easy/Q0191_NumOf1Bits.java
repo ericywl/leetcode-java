@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class Q0191_NumOf1Bits {
     public static int hammingWeight(int n) {

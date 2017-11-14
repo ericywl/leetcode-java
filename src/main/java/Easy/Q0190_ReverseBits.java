@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class Q0190_ReverseBits {
     public static int reverseBits(int n) {
