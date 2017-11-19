@@ -20,8 +20,4 @@ public class Q0226_InvertBinaryTree {
         root.right = invertTree(temp);
         return root;
     }
-
-    public static void main(String[] args) {
-
-    }
 }
